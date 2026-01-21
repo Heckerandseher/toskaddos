@@ -1,0 +1,2 @@
+# toskaddos
+ddos py kodu
